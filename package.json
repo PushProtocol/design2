@@ -1,0 +1,19 @@
+{
+  "name": "@malikfarhan/design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushprotocol/layout.git"
+  },
+  "author": "Push Protocol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushprotocol/layout/issues"
+  },
+  "homepage": "https://github.com/pushprotocol/layout#readme"
+}
